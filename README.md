@@ -55,20 +55,14 @@
 
 ###
 
+<img align="right" height="150" src="https://i.imgflip.com/9v7llf.gif"  />
+
+###
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/risidav/risidav/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/risidav/risidav/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/risidav/risidav/output/pacman-contribution-graph.svg">
 </picture>
-
-###
-
-<img align="right" height="150" src="https://i.imgflip.com/9v7llf.gif"  />
-
-###
-
-<div align="center">
-  <img height="200" src="https://i.ytimg.com/vi/CGmEY8-ElTs/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDc_mOYal9NOdhOLc6_RMq4mfANtQ"  />
-</div>
 
 ###

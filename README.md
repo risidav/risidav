@@ -1,4 +1,10 @@
-<h2 align="left">Hi! My name is Necro and I'm a Game Developer, from Brazil.</h2>
+<h2 align="left">Olá!
+
+Eu sou o Davi Risi (NotNecro). Sou um desenvolvedor de jogos indie, ilustrador, músico e ator. Sou Técnico em Desenvolvimento de Sistemas e atualmente estou cursando Design de Mídias Digitais.
+
+Tenho experiência com Unity, .Net, Java, Javascript, C++ e MySql.
+
+Atualmente estou desenvolvendo um jogo chamado Tartarus Bloodhail e postando devlogs no meu canal do youtube.</h2>
 
 ###
 

@@ -1,10 +1,10 @@
-<h2 align="left">Olá!
+<h2 align="left">Olá!</h2>
 
-Eu sou o Davi Risi (NotNecro). Sou um desenvolvedor de jogos indie, ilustrador, músico e ator. Sou Técnico em Desenvolvimento de Sistemas e atualmente estou cursando Design de Mídias Digitais.
+<h3>Eu sou o Davi Risi (NotNecro). Sou um desenvolvedor de jogos indie, ilustrador, músico e ator. Sou Técnico em Desenvolvimento de Sistemas e atualmente estou cursando Design de Mídias Digitais.
 
 Tenho experiência com Unity, .Net, Java, Javascript, C++ e MySql.
 
-Atualmente estou desenvolvendo um jogo chamado Tartarus Bloodhail e postando devlogs no meu canal do youtube.</h2>
+Atualmente estou desenvolvendo um jogo chamado Tartarus Bloodhail e postando devlogs no meu canal do youtube</h3>
 
 ###
 
